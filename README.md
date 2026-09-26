@@ -1,2 +1,3 @@
-# templates
-Template Hosting &amp; VPS (Minecraft , Next.JS,...)
+# Aston Cloud - Templates
+
+## Danh Sách Các Template
