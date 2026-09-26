@@ -6,4 +6,4 @@
 
 | Loại | Đường dẫn | Ghi chú |
 | --- | --- | --- |
-| Next.JS | [`AI/OpenClaw.json`](AI/OpenClaw.json) | Chạy OpenClaw Gateway với persistent state trong `/home/container/.openclaw`. |
+| Next.JS | [`websites/nextjs`](website/nextjs) | Chạy React Server Components |
